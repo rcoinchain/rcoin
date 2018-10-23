@@ -11,4 +11,4 @@ Rcoin is a new digit coin, compare to bitcoin rcoin has some significant differe
 ## Links
 
 * Website: http://rcoin.org
-* Trade: http://www.coinyee.com
+* Trade: http://www.coinyee.io
